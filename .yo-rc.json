@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.microservice1"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "microservice",
+    "baseName": "microservice1",
+    "packageName": "com.microservice1",
+    "packageFolder": "com/microservice1",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NjI1MTBkZTNjNzE5MThlOWJlM2JjYzM2ZWVmNGY2NTlkNmExMTcwMjcyODNkYTU0YmEyNGVhODRjMDI5ZTkyMWIyMDVjMjU2MmNlNThmMzVjNGU3Yzc4MDUxMDUxNTUwNzExODAxMWEyYWNjMGYyNTFkYmQ5NzExZDg1NGUxMmM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1586874329946,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
